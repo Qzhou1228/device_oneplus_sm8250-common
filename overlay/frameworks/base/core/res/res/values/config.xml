@@ -413,4 +413,7 @@
 
     <!-- Package name for the call-based number verification app -->
     <string name="platform_number_verification_package" translatable="false">com.google.android.gms</string>
+
+    <!-- Enable the RingtonePickerActivity in 'com.android.providers.media'. -->
+    <bool name="config_defaultRingtonePickerEnabled">true</bool>
 </resources>
